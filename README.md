@@ -14,7 +14,7 @@ As Joseph Goebbels said:
 > "if you tell a lie big enough and keep repeating it, people will eventually come to believe it".
 
 
-![SnoopyCodeX](https://raw.githubusercontent.com/SnoopyCodeX/SnoopyCodeX/master/res/img/profile.png)
+![SnoopyCodeX](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
 
 # Hi, I am Rovic Deloy (:computer::heart:)
 
@@ -25,7 +25,7 @@ I'm an aspiring Computer Data Scientist and Website Developer from the Philippin
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ)
 
 - :computer: Currently working as a freelance developer.
-- :moneybag: Looking for new clients who wants to work with me. [Contact me](mailto:johnroy062102calimlim@gmail.com)
+- :moneybag: Looking for new clients who wants to work with me. [Contact me](Dragonoob61@gmail.com)
 - :trophy: Goals: Contribute and publish more open-source projects.
 
 
@@ -53,12 +53,12 @@ I'm an aspiring Computer Data Scientist and Website Developer from the Philippin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![SnoopyCodeX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnoopyCodeX&theme=radical&hide_border=true)
+![Rovic Deloy Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnoopyCodeX&theme=radical&hide_border=true)
 ---
 
 ## :zap: Github Stats
 
-![SnoopyCodeX's Stats](https://github-readme-stats.vercel.app/api?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Rovic Deloy Stats](https://github-readme-stats.vercel.app/api?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
