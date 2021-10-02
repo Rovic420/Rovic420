@@ -18,7 +18,7 @@ As Joseph Goebbels said:
 
 # Hi, I am Rovic Deloy (:computer::heart:)
 
-I'm an aspiring Computer Data Scientist and Website Developer from the Philippines!
+I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RovicDeloy2) 
@@ -62,6 +62,6 @@ I'm an aspiring Computer Data Scientist and Website Developer from the Philippin
 
 ---
 
-:computer: with :heart: by **Rovic Deloy** :muscle:
+:heart: **Rovic Deloy** :heart:
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RovicDeloy2) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ  )
