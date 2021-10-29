@@ -14,7 +14,7 @@ As Joseph Goebbels said:
 > "if you tell a lie big enough and keep repeating it, people will eventually come to believe it".
 
 
-![SnoopyCodeX](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
+![Rovic Deloy](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
 
 # Hi, I am Rovic Deloy (:computer::heart:)
 
@@ -25,7 +25,7 @@ I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ)
 
 - :computer: Currently working as a freelance developer.
-- :moneybag: Looking for new clients who wants to work with me. [Contact me](Dragonoob61@gmail.com)
+- :moneybag: Looking for new clients who wants to work with me. [Contact me](Deloy371@protonmail.com)
 - :trophy: Goals: Contribute and publish more open-source projects.
 
 
@@ -50,15 +50,15 @@ I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovicdeloy2&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![Rovic Deloy Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnoopyCodeX&theme=radical&hide_border=true)
+![Rovic Deloy Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovicdeloy2&theme=radical&hide_border=true)
 ---
 
 ## :zap: Github Stats
 
-![Rovic Deloy Stats](https://github-readme-stats.vercel.app/api?username=SnoopyCodeX&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Rovic Deloy Stats](https://github-readme-stats.vercel.app/api?username=Rovicdeloy2&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
