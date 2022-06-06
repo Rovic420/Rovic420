@@ -5,7 +5,7 @@
 
 
 -->
-**Follow me on my Social Media Account:**
+**Follow me on my Twitter Account:**
 [Twitter](http://twitter.com/RovicDeloy2)
 
 
@@ -62,6 +62,6 @@ I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 
 ---
 
-:heart: **Rovic Deloy** :heart:
+:heart: **My Social Media Accounts** :heart:
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RovicDeloy2) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ  )
