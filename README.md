@@ -1,4 +1,4 @@
-### *HELLO FELLOW CODERS! WELCOME TO MY FUCKING PROFILE!*
+### *HELLO MY DUDES! WELCOME TO MY PROFILE!*
 
 <!--
 **RovicDeloy2/RovicDeloy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,8 @@ I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ)
 
 - :computer: Currently working as a freelance developer.
-- :moneybag: Looking for new clients who wants to work with me. [Contact me](Deloy371@protonmail.com)
-- :trophy: Goals: Contribute and publish more open-source projects.
+- :moneybag: Looking for new peeps who wants to work with me. [Contact me](Deloy371@protonmail.com)
+- :trophy: Goals: Work, Contribute and publish more open-source projects.
 
 
 ## :wrench: Technologies
