@@ -18,6 +18,8 @@ As Joseph Goebbels said:
 
 # Hi, I am Rovic Deloy (:lock: :key:)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic+Deloy%2C+18+years+old;Front-end+Web+Developer;Website+Hacker)](https://git.io/typing-svg)
+
 I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) 
