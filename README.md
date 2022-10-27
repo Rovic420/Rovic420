@@ -1,7 +1,7 @@
 ### *HELLO MY DUDES! WELCOME TO MY PROFILE!*
 
 <!--
-**RovicDeloy2/RovicDeloy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rovic420/Rovic420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
@@ -16,7 +16,7 @@ As Joseph Goebbels said:
 
 ![Rovic Deloy](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
 
-# Hi, I am Rovic Deloy (:lock: :key:)
+# Hi, I am Rovic (:lock: :key:)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic+Deloy%2C+18+years+old;Front-end+Web+Developer;Website+Hacker)](https://git.io/typing-svg)
 
@@ -52,15 +52,15 @@ I'm an Aspiring Computer Data Scientist, Full-time weeb, and Part-time Gamer!
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovicdeloy2&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![Rovic Deloy Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovicdeloy2&theme=radical&hide_border=true)
+![Rovic Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true)
 ---
 
 ## :zap: Github Stats
 
-![Rovic Deloy Stats](https://github-readme-stats.vercel.app/api?username=Rovicdeloy2&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Rovic Stats](https://github-readme-stats.vercel.app/api?username=Rovic420&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
