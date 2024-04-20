@@ -16,7 +16,7 @@ As Joseph Goebbels said:
 
 ![Rovic](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
 
-# Hi, I am Rovic (:lock: :key:)
+# Hi, I am Rovic :wink:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+18+years+old;Front-end+Web+Developer;Website+Hacker)](https://git.io/typing-svg)
 
