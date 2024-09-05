@@ -18,7 +18,7 @@ As Joseph Goebbels said:
 
 # Hi, I am Rovic :wink:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+18+years+old;Front-end+Web+Developer;Website+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Software+Developer;Gamer;Anime+Enthausiast)](https://git.io/typing-svg)
 
 I'm an Aspiring Software Developer, Full-time weeb, and Part-time Gamer!
 
