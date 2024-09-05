@@ -23,9 +23,7 @@ As Joseph Goebbels said:
 
 
 
-<p align="center">
-# Hi, I am Rovic :wink:
-</p>
+<h2 style="text-align: center;">Hi, I am Rovic :wink:</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Software+Developer;Gamer;Anime+Enthausiast)](https://git.io/typing-svg)
 
