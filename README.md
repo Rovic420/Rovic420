@@ -5,7 +5,7 @@
 
 
 -->
-**Follow me on my **
+**Follow me on my :**
 [Twitter](http://twitter.com/RovicDeloy2)
 
 
