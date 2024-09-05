@@ -1,5 +1,8 @@
 ### *HELLO MY DUDES! WELCOME TO MY PROFILE!*
 
+𝙃𝙀𝙇𝙇𝙊 𝙈𝙔 𝘿𝙐𝘿𝙀𝙎! 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀!
+
+
 <!--
 **Rovic420/Rovic420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
