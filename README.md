@@ -14,7 +14,8 @@ As Joseph Goebbels said:
 > "if you tell a lie big enough and keep repeating it, people will eventually come to believe it".
 
 
-![Rovic](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png)
+<img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="300"/>
+
 
 # Hi, I am Rovic :wink:
 
