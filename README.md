@@ -15,10 +15,17 @@ As Joseph Goebbels said:
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200" style="margin: 0 30px;"/>
-  <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200" style="margin: 0 30px;"/>
-  <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200" style="margin: 0 30px;"/>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200"/>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200"/>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="200"/>
+  </div>
 </p>
+
 
 
 
