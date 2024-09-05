@@ -6,7 +6,7 @@
 
 -->
 **Follow me on my :**
-[Twitter](http://twitter.com/RovicDeloy2)
+[Twitter](https://twitter.com/Heinz_Conrad_)
 
 
 As Joseph Goebbels said:
@@ -20,7 +20,7 @@ As Joseph Goebbels said:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+18+years+old;Front-end+Web+Developer;Website+Hacker)](https://git.io/typing-svg)
 
-I'm an Aspiring Front End Developer, Full-time weeb, and Part-time Gamer!
+I'm an Aspiring Software Developer, Full-time weeb, and Part-time Gamer!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Fishausted) 
@@ -28,7 +28,7 @@ I'm an Aspiring Front End Developer, Full-time weeb, and Part-time Gamer!
 
 - :computer: Currently learning web programming languages.
 - :moneybag: Looking for new peeps who wants to work with me. [Contact me](Deloy371@pm.me)
-- :trophy: Goals: Work, Contribute and publish more open-source projects.
+- :trophy: Goals: Work, Contribute and to be success.
 
 
 ## :wrench: Technologies
@@ -66,4 +66,4 @@ I'm an Aspiring Front End Developer, Full-time weeb, and Part-time Gamer!
 
 :heart: **My Social Media Accounts** :heart:
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RovicDeloy2) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ  )
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fishausted) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ  )
