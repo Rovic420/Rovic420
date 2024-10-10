@@ -6,8 +6,8 @@
 
 
 -->
-**Follow me on my :**
-[Twitter](https://twitter.com/Heinz_Conrad_)
+**You can visit on my :**
+[PORTFOLIO](https://twitter.com/Heinz_Conrad_)
 
 
 As Joseph Goebbels said:
