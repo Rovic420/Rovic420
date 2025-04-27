@@ -17,7 +17,7 @@ As Joseph Goebbels said:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="160" hspace="20"/>
-  <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_122773110_20250427_083236.jpg" alt="Rovic" width="160" hspace="20"/>
+  <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_102773124_20250427_083111.png" alt="Rovic" width="160" hspace="20"/>
   <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_119849342_20250420_112226.png" alt="Rovic" width="160" hspace="20"/>
   <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_95069214_20250418_130240.png" alt="Rovic" width="160" hspace="20"/>
 </p>
