@@ -7,7 +7,7 @@
 
 -->
 **You can visit on my :**
-[PORTFOLIO](https://rovic420.netlify.app/)
+[PORTFOLIO](https://hoshio-deloy.vercel.app/)
 
 
 As Joseph Goebbels said:
@@ -17,18 +17,18 @@ As Joseph Goebbels said:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png" alt="Rovic" width="160" hspace="20"/>
-  <img src="https://raw.githubusercontent.com/Rovic420/rovic420.io/main/images/illust_105353432_20240905_084302.png" alt="Rovic" width="160" hspace="20"/>
-  <img src="https://raw.githubusercontent.com/Rovic420/rovic420.io/main/images/illust_117825615_20240905_084413.png" alt="Rovic" width="160" hspace="20"/>
-  <img src="https://raw.githubusercontent.com/Rovic420/rovic420.io/main/images/illust_87843206_20240905_090227.jpg" alt="Rovic" width="160" hspace="20"/>
+  <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/0304fedab32b32e854e5ec277e200d17.jpg" alt="Rovic" width="160" hspace="20"/>
+  <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_119849342_20250420_112226.png" alt="Rovic" width="160" hspace="20"/>
+  <img src="https://raw.githubusercontent.com/Rovic420/portf/refs/heads/main/illust_95069214_20250418_130240.png" alt="Rovic" width="160" hspace="20"/>
 </p>
 
 
 
 # Hi, I am Rovic :wink:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Software+Developer;Gamer;Anime+Enthausiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthausiast)](https://git.io/typing-svg)
 
-I'm an Aspiring Software Developer, Full-time weeb, and Part-time Gamer!
+I'm an Aspiring Tech Specialist, Full-time Student, and Part-time Gamer!
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Fishausted) 
@@ -49,16 +49,12 @@ I'm an Aspiring Software Developer, Full-time weeb, and Part-time Gamer!
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![VueJS](https://img.icons8.com/color/30/vue-js.png)
-![Flutter](https://img.icons8.com/color/30/flutter.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
-![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)
-![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)
-![JQuery](https://img.icons8.com/ios-filled/30/4a90e2/jquery.png)
 ![MyQSL](https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png)
-![Firebase](https://img.icons8.com/color/30/4a90e2/firebase.png)
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
+![Figma](https://img.icons8.com/color/30/figma.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![Canva](https://img.icons8.com/color/30/canva.png)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
