@@ -26,13 +26,19 @@ As Joseph Goebbels said:
 
 # Hi, I am Rovic :wink:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthausiast)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG"/></a></p>
+
+
+<img src="https://media.tenor.com/Ems-mLvCeqwAAAAC/cid-kagenou.gif" alt="CID Kagenou" width="400" align="center"/>
+
 
 I'm an Aspiring Tech Specialist, Full-time Student, and Part-time Gamer!
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Fishausted) 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rovic420/count.svg"/>
+</p>
 
 - :computer: Currently learning web programming languages.
 - :moneybag: Looking for new peeps who wants to work with me. [Contact me](Deloy371@pm.me)
