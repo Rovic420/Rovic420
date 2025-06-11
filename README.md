@@ -65,7 +65,8 @@ I'm an Aspiring Tech Specialist, Full-time Student, and Part-time Gamer!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
-![Rovic Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true)
+![Rovic Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true&include_all_commits=true)
+
 ---
 
 ## :zap: Github Stats
