@@ -30,7 +30,9 @@ As Joseph Goebbels said:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG"/></a></p>
 
 
-<img src="https://media.tenor.com/Ems-mLvCeqwAAAAC/cid-kagenou.gif" alt="CID Kagenou" width="400" align="center"/>
+<p align="center">
+  <img src="https://media.tenor.com/Ems-mLvCeqwAAAAC/cid-kagenou.gif" width="400"/>
+</p>
 
 
 I'm an Aspiring Tech Specialist, Full-time Student, and Part-time Gamer!
