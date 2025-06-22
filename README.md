@@ -77,16 +77,31 @@ As Joseph Goebbels said:
 </p>
 
 ---
-![Rovic Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true&include_all_commits=true" alt="Rovic's GitHub Streak"/>
+</p>
 
 ---
 
 ## :zap: Github Stats
 
-![Rovic Stats](https://github-readme-stats.vercel.app/api?username=Rovic420&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rovic420&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Rovic's GitHub Stats"/>
+</p>
 
 ---
 
 :heart: **My Social Media Accounts** :heart:
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RovicDeloyTV) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fishausted) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ  )
+
+<p align="center">
+  <a href="https://facebook.com/RovicDeloyTV">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://twitter.com/Fishausted">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://m.youtube.com/channel/UCZhAG9pz_YzNAOiQelO5tCQ">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
