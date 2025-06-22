@@ -27,7 +27,9 @@ As Joseph Goebbels said:
 # Hi, I am Rovic :wink:
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG"/></a></p>
+   &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&color=00FF00&center=true&vCenter=true&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
