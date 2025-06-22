@@ -6,13 +6,20 @@
 
 
 -->
-**You can visit on my :**
-[PORTFOLIO](https://hoshio-deloy.vercel.app/)
+<h3 align="center">🌐 Visit My Portfolio</h3>
+
+<p align="center">
+  <a href="https://hoshio-deloy.vercel.app/" target="_blank">
+    🚀 <strong>hoshio-deloy.vercel.app</strong>
+  </a>
+</p>
 
 
-As Joseph Goebbels said:
-
-> "if you tell a lie big enough and keep repeating it, people will eventually come to believe it".
+<blockquote align="center">
+  “If you tell a lie big enough and keep repeating it, people will eventually come to believe it.”
+  <br/>
+  <sub>— Joseph Goebbels</sub>
+</blockquote>
 
 
 <p align="center">
