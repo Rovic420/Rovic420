@@ -53,7 +53,7 @@ As Joseph Goebbels said:
 <p align="center">🏆 Goals: Work, Contribute, and succeed.</p>
 
 
-<hr width="80%">
+<hr width="100%">
 
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -85,7 +85,7 @@ As Joseph Goebbels said:
 </p>
 
 ---
-<hr width="80%">
+<hr width="100%">
 
 
 <h3 align="center">⚡ GitHub Stats</h3>
@@ -95,7 +95,7 @@ As Joseph Goebbels said:
 </p>
 
 ---
-<hr width="80%">
+<hr width="100%">
 
 
 <h3 align="center">❤️ My Social Media Accounts ❤️</h3>
