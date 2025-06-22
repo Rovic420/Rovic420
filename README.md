@@ -37,7 +37,10 @@ As Joseph Goebbels said:
 </p>
 
 
-I'm an Aspiring Tech Specialist, Full-time Student, and Part-time Gamer!
+<p align="center">
+  ✨ *Aspiring Tech Specialist* · *Full-Time Student* · *Part-Time Gamer* ✨
+</p>
+
 
 <p align="center"> 
   Visitor count<br>
