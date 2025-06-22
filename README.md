@@ -45,6 +45,13 @@
 
 
 <p align="center">
+   &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&color=00FF00&center=true&vCenter=true&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
   🌐 A S P I R I N G &nbsp; T E C H &nbsp; S P E C I A L I S T · 🎓 S T U D E N T · 🎮 G A M E R
 </p>
 
@@ -54,10 +61,6 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Rovic420/count.svg" alt="Visitor Counter"/>
-</p>
-
-<p align="center">
-  <sub>You're visitor number — thanks for stopping by 💫</sub>
 </p>
 
 
