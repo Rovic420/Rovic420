@@ -31,11 +31,10 @@
 
 
 
-<h2 align="center">Hi, I'm <span style="color:#39FF14;">Rovic</span> 😎</h2>
-
 <p align="center">
-   &nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&color=00FF00&center=true&vCenter=true&lines=I'm+Rovic%2C+20+years+old;Front+End+Developer;Gamer;Anime+Enthusiast" alt="Typing SVG" />
+  ┌───────────────────────────┐<br/>
+  │ 👋 Hi, I’m <strong>Rovic</strong> 😎 │<br/>
+  └───────────────────────────┘
 </p>
 
 
