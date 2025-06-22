@@ -50,10 +50,16 @@
 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Rovic420/count.svg"/>
+<h3 align="center">👁️‍🗨️ Visitor Count</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Rovic420/count.svg" alt="Visitor Counter"/>
 </p>
+
+<p align="center">
+  <sub>You're visitor number — thanks for stopping by 💫</sub>
+</p>
+
 
 <p align="center">💻 Currently learning web programming languages.</p>
 <p align="center">💰 Looking for new peeps who want to work with me. <a href="mailto:Deloy371@pm.me">Contact me</a></p>
