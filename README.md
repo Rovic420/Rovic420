@@ -55,22 +55,26 @@ As Joseph Goebbels said:
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png)
-![PHP](https://img.icons8.com/color/30/php.png)
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Git](https://img.icons8.com/color/30/git.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Windows](https://img.icons8.com/color/30/windows-10.png)
-![MyQSL](https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![Figma](https://img.icons8.com/color/30/figma.png)
-![Python](https://img.icons8.com/color/30/python.png)
-![Canva](https://img.icons8.com/color/30/canva.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/30/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/30/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/30/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/material-outlined/30/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/30/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/30/windows-10.png" alt="Windows"/>
+  <img src="https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/30/npm.png" alt="NPM"/>
+  <img src="https://img.icons8.com/color/30/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/30/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/30/canva.png" alt="Canva"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
 
 ---
 ![Rovic Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true&include_all_commits=true)
