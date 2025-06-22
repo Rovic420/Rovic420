@@ -1,4 +1,4 @@
-### **𝙃𝙀𝙇𝙇𝙊 𝙈𝙔 𝘿𝙐𝘿𝙀𝙎! 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀!**
+<h1 align="center">👾 𝙃𝙀𝙇𝙇𝙊 𝙈𝙔 𝘿𝙐𝘿𝙀𝙎! 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀! 👾</h1>
 
 
 <!--
@@ -24,7 +24,7 @@ As Joseph Goebbels said:
 
 
 
-# Hi, I am Rovic :wink:
+<h2 align="center">Hi, I'm <span style="color:#39FF14;">Rovic</span> 😎</h2>
 
 <p align="center">
    &nbsp;&nbsp;
@@ -53,7 +53,10 @@ As Joseph Goebbels said:
 <p align="center">🏆 Goals: Work, Contribute, and succeed.</p>
 
 
-## :wrench: Technologies
+<hr width="80%">
+
+
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML5"/>
@@ -82,16 +85,20 @@ As Joseph Goebbels said:
 </p>
 
 ---
+<hr width="80%">
 
-## :zap: Github Stats
+
+<h3 align="center">⚡ GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rovic420&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Rovic's GitHub Stats"/>
 </p>
 
 ---
+<hr width="80%">
 
-:heart: **My Social Media Accounts** :heart:
+
+<h3 align="center">❤️ My Social Media Accounts ❤️</h3>
 
 
 <p align="center">
