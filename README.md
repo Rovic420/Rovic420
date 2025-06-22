@@ -38,8 +38,9 @@ As Joseph Goebbels said:
 
 
 <p align="center">
-  ✨ *Aspiring Tech Specialist* · *Full-Time Student* · *Part-Time Gamer* ✨
+  🌐 A S P I R I N G &nbsp; T E C H &nbsp; S P E C I A L I S T · 🎓 S T U D E N T · 🎮 G A M E R
 </p>
+
 
 
 <p align="center"> 
