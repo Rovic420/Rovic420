@@ -79,12 +79,12 @@ As Joseph Goebbels said:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rovic420&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rovic420&theme=radical&hide_border=true&include_all_commits=true" alt="Rovic's GitHub Streak"/>
 </p>
 
----
+
 <hr width="100%">
 
 
@@ -94,7 +94,7 @@ As Joseph Goebbels said:
   <img src="https://github-readme-stats.vercel.app/api?username=Rovic420&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Rovic's GitHub Stats"/>
 </p>
 
----
+
 <hr width="100%">
 
 
