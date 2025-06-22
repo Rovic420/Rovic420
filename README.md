@@ -48,9 +48,9 @@ As Joseph Goebbels said:
   <img src="https://profile-counter.glitch.me/Rovic420/count.svg"/>
 </p>
 
-- :computer: Currently learning web programming languages.
-- :moneybag: Looking for new peeps who wants to work with me. [Contact me](Deloy371@pm.me)
-- :trophy: Goals: Work, Contribute and to be success.
+<p align="center">💻 Currently learning web programming languages.</p>
+<p align="center">💰 Looking for new peeps who want to work with me. <a href="mailto:Deloy371@pm.me">Contact me</a></p>
+<p align="center">🏆 Goals: Work, Contribute, and succeed.</p>
 
 
 ## :wrench: Technologies
